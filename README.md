@@ -12,5 +12,3 @@ At SAP I work on projects like:
 I'm a frequent speaker at conferences around the world for topics like augmented reality and open source. A list of my talks can be found on my site [grails.de](https://grails.de/about)
 
 You can get in touch with me via [twitter](https://twitter.com/cgrail) or [linkedin](https://www.linkedin.com/in/cgrail/)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cgrail.visitor-badge)
