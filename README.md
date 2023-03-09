@@ -8,6 +8,7 @@ At SAP I work on projects like:
 - [SAP Inscribe](https://www.youtube.com/watch?v=kICnfrqOizw) a handwriting and machine learning based conversational digital assistant
 - [SAP BUILD](https://vimeo.com/182832619) a complete set of cloud-based tools to design and build enterprise apps
 - [SAP Data Encounter](https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=0_mdjdr8rn) an award winning 3D Big Data exploration tool which utilizes AR and VR
+- [SAP Desktop Office Integration with Google](https://blogs.sap.com/2023/03/08/how-to-enable-the-sap-desktop-office-integration-for-sap-gui-for-html-and-sap-gui-for-java/)
   
 I'm a frequent speaker at conferences around the world for topics like augmented reality and open source. A list of my talks can be found on my site [grails.de](https://grails.de/about)
 
